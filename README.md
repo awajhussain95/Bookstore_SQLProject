@@ -21,9 +21,13 @@ Uses JOIN, GROUP BY, COUNT, SUM, AVG, and sorting techniques
 
 # Project answers key business questions such as:
 1.Top selling books
+
 2.Top customers by number of orders or revenue
+
 3.Revenue by genre
+
 4.Customers with repeat orders
+
 5.Sales performance by day
 
 # Tools & Technologies
